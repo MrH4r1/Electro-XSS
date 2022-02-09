@@ -1,0 +1,15 @@
+{
+  "name": "electro-xss",
+  "version": "1.0.0",
+  "description": "An Electron application that may be exploited for XSS and RCE.",
+  "main": "index.js",
+  "scripts": {
+    "electro-xss": "electron ."
+  },
+  "author": "MrH4r1",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^17.0.0",
+    "jquery": "^3.6.0"
+  }
+}
