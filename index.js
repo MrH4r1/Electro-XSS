@@ -14,4 +14,5 @@ const MainWindow = new BrowserWindow({
 
 MainWindow.loadURL(`file://${__dirname}/views/index.html`)
 
+
 });
